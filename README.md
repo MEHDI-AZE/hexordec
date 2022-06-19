@@ -1,2 +1,2 @@
 # hexordec
-This small batch script is usefull check readme
+This small batch script soon
